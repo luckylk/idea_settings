@@ -1,0 +1,9 @@
+<keymap version="1" name="Default for XWin copy" parent="Default for XWin">
+  <action id="CodeCompletion">
+    <keyboard-shortcut first-keystroke="alt slash" />
+  </action>
+  <action id="HippieCompletion" />
+  <action id="OnlineSearch.EditorActions.ShowSearchEnginesAction">
+    <keyboard-shortcut first-keystroke="ctrl alt 1" />
+  </action>
+</keymap>

@@ -1,0 +1,17 @@
+<templateSet group="output">
+  <template name="syso" value="System.out.println($END$);" description="经典输出" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="prs" value="private String xxx;" description="private String xxx;" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="pri" value="private Integer xxx;" description="private Integer xxx;" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>
