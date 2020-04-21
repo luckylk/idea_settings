@@ -1,14 +1,12 @@
 <application>
   <component name="FileTypeManager" version="17">
-    <ignoreFiles list="*.gitignore;*.hprof;*.idea;*.iml;*.mvn;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc;" />
+    <ignoreFiles list="*.gitignore;*.hprof;*.idea;*.iml;*.mvn;*.pyc;*.pyo;*.rbc;*.settings;*.vscode;*.yarb;*~;.DS_Store;.classpath;.factorypath;.git;.hg;.project;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc;" />
     <extensionMap>
       <mapping pattern="Dockfile" type="Dockerfile" />
-      <mapping pattern="*.js.flow" type="Flow" />
-      <mapping pattern="*.js.flow" type="Flow" />
+      <mapping pattern="广东省数据返还" type="PLAIN_TEXT" />
       <mapping pattern="河南基础数据库" type="PLAIN_TEXT" />
       <mapping pattern="数据交换配置" type="PLAIN_TEXT" />
       <mapping pattern="基础数据-孝感部署配置" type="PLAIN_TEXT" />
-      <mapping pattern="广东省数据返还" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
