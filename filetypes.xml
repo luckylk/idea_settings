@@ -8,6 +8,7 @@
       <mapping pattern="基础数据-孝感部署配置" type="PLAIN_TEXT" />
       <mapping pattern="广东省数据返还" type="PLAIN_TEXT" />
       <mapping pattern="数据交换配置" type="PLAIN_TEXT" />
+      <mapping pattern="黔南数据交换配置" type="PLAIN_TEXT" />
       <mapping pattern="河南基础数据库" type="PLAIN_TEXT" />
       <mapping pattern="nginx*.conf" type="nginx" />
     </extensionMap>
