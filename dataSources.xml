@@ -1,0 +1,18 @@
+<application>
+  <component name="dataSourceStorage" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="慧教云-D" uuid="bcc22850-9867-4d56-a30c-39c656089c08">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <remarks>10.0.200.12 29902</remarks>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://10.0.200.12:29902</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="慧教云-T" uuid="b7094fe6-0284-4b40-8946-b6f17694b3db">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <remarks>慧教云-T</remarks>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://10.0.200.15:25334/</jdbc-url>
+    </data-source>
+  </component>
+</application>
