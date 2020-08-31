@@ -12,7 +12,7 @@
       <synchronize>true</synchronize>
       <remarks>慧教云-T</remarks>
       <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
-      <jdbc-url>jdbc:mysql://10.0.200.15:25334/</jdbc-url>
+      <jdbc-url>jdbc:mysql://10.0.200.12:29902/</jdbc-url>
     </data-source>
   </component>
 </application>
