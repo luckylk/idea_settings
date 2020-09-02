@@ -14,5 +14,12 @@
       <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
       <jdbc-url>jdbc:mysql://10.0.200.12:22130/</jdbc-url>
     </data-source>
+    <data-source source="LOCAL" name="自己的腾讯云" uuid="9cb98334-e671-4d78-ba9e-7da8452b356d">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <remarks>152.136.153.246</remarks>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://152.136.153.246:3306</jdbc-url>
+    </data-source>
   </component>
 </application>
