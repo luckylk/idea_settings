@@ -18,5 +18,6 @@
     <mask>*.jsp</mask>
     <mask>*.ftl</mask>
     <mask>pom.xml</mask>
+    <mask>.jsp</mask>
   </component>
 </application>
