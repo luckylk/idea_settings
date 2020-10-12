@@ -10,6 +10,7 @@
       <mapping pattern="数据交换配置" type="PLAIN_TEXT" />
       <mapping pattern="黔南数据交换配置" type="PLAIN_TEXT" />
       <mapping pattern="河南基础数据库" type="PLAIN_TEXT" />
+      <mapping ext="bak" type="PLAIN_TEXT" />
       <mapping pattern="nginx*.conf" type="nginx" />
     </extensionMap>
   </component>
