@@ -15,5 +15,6 @@
     <entry projectPath="$USER_HOME$/work/space/whty/data-manager-config" startUpFlag="FIRST" />
     <entry projectPath="$USER_HOME$/work/space/whty/dc-cloud-gateway" startUpFlag="FIRST" />
     <entry projectPath="$USER_HOME$/work/space/whty/dc-cloud-gateway-server" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/work/space/whty/网关配置文件" startUpFlag="FIRST" />
   </component>
 </application>
