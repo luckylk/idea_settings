@@ -17,6 +17,7 @@
     <entry projectPath="$USER_HOME$/work/space/whty/cc-exchange-manage" startUpFlag="FIRST" />
     <entry projectPath="$USER_HOME$/work/space/whty/cc-gateway" startUpFlag="FIRST" />
     <entry projectPath="$USER_HOME$/work/space/whty/cc-management-system" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/work/space/whty/cc-parent" startUpFlag="FIRST" />
     <entry projectPath="$USER_HOME$/work/space/whty/data-manager-config" startUpFlag="FIRST" />
     <entry projectPath="$USER_HOME$/work/space/whty/dc-cloud-gateway" startUpFlag="FIRST" />
     <entry projectPath="$USER_HOME$/work/space/whty/dc-cloud-gateway-server" startUpFlag="FIRST" />
