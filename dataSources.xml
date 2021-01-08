@@ -94,5 +94,12 @@
       <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
       <jdbc-url>jdbc:mysql://10.0.200.12:9769</jdbc-url>
     </data-source>
+    <data-source source="LOCAL" name="8.0-网关-江门" uuid="b3d2d0d3-ea46-4ce2-bb4c-28fdbce80845">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <remarks>10.0.200.39  10413</remarks>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://10.0.200.39:10413</jdbc-url>
+    </data-source>
   </component>
 </application>
