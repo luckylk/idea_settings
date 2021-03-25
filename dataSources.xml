@@ -164,5 +164,12 @@
       <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
       <jdbc-url>jdbc:mysql://127.0.0.1:13306</jdbc-url>
     </data-source>
+    <data-source source="LOCAL" name="8.0-网关-天喻云-升级以后" uuid="3f6aae8d-f7fa-42df-8b08-9127e5f60ceb">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <remarks>192.168.30.133 3306</remarks>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://10.0.200.39:4962/gateway_upgrade</jdbc-url>
+    </data-source>
   </component>
 </application>
