@@ -21,12 +21,12 @@
       <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
       <jdbc-url>jdbc:mysql://154.8.210.161:3306</jdbc-url>
     </data-source>
-    <data-source source="LOCAL" name="8.0-网关-天喻云" uuid="baeb89fc-b443-4f9b-a375-6bbbd1a3dec8">
+    <data-source source="LOCAL" name="8.0-网关-驻马店" uuid="baeb89fc-b443-4f9b-a375-6bbbd1a3dec8">
       <driver-ref>mysql.8</driver-ref>
       <synchronize>true</synchronize>
       <remarks>192.168.30.133 3306</remarks>
       <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
-      <jdbc-url>jdbc:mysql://10.0.200.39:4962</jdbc-url>
+      <jdbc-url>jdbc:mysql://10.0.200.15:23168</jdbc-url>
     </data-source>
     <data-source source="LOCAL" name="8.0-网关-广东政务云" uuid="949843f2-aea6-4053-b7eb-4d5ab285ee95">
       <driver-ref>mysql.8</driver-ref>
