@@ -1,6 +1,7 @@
 <application>
   <component name="TipsStore">
     <option name="globalFirstStartUp" value="false" />
+    <entry projectPath="$USER_HOME$/work/space/basic/basic_k12_xg" startUpFlag="FIRST" />
     <entry projectPath="$USER_HOME$/work/space/data-center/dc-data-exchange" startUpFlag="FIRST" />
     <entry projectPath="$USER_HOME$/work/space/git/DBus" startUpFlag="FIRST" />
     <entry projectPath="$USER_HOME$/work/space/git/basic_k12" startUpFlag="FIRST" />
