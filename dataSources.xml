@@ -1,6 +1,6 @@
 <application>
   <component name="dataSourceStorage" format="xml" multifile-model="true">
-    <data-source source="LOCAL" name="慧教云-D" uuid="bcc22850-9867-4d56-a30c-39c656089c08">
+    <data-source source="LOCAL" name="8.0-网关-慧教云-D" uuid="bcc22850-9867-4d56-a30c-39c656089c08">
       <driver-ref>mysql.8</driver-ref>
       <synchronize>true</synchronize>
       <remarks>10.0.200.12 29902</remarks>
@@ -14,7 +14,7 @@
       <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
       <jdbc-url>jdbc:mysql://10.0.200.39:27831/</jdbc-url>
     </data-source>
-    <data-source source="LOCAL" name="中间件统一后台" uuid="9cb98334-e671-4d78-ba9e-7da8452b356d">
+    <data-source source="LOCAL" name="8.0-中间件统一后台" uuid="9cb98334-e671-4d78-ba9e-7da8452b356d">
       <driver-ref>mysql.8</driver-ref>
       <synchronize>true</synchronize>
       <remarks>154.8.210.161 3306</remarks>
@@ -41,7 +41,7 @@
       <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
       <jdbc-url>jdbc:mysql://10.0.200.39:22424</jdbc-url>
     </data-source>
-    <data-source source="LOCAL" name="网关7.0-基库" uuid="ccb932e9-9f9b-4306-851d-32b0e6a6f411">
+    <data-source source="LOCAL" name="7.0-网关-基库" uuid="ccb932e9-9f9b-4306-851d-32b0e6a6f411">
       <driver-ref>mysql.8</driver-ref>
       <synchronize>true</synchronize>
       <remarks>192.168.30.133 3306</remarks>
@@ -61,7 +61,7 @@
       <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
       <jdbc-url>jdbc:mysql://10.0.200.15:12503</jdbc-url>
     </data-source>
-    <data-source source="LOCAL" name="网关7.0-银联-T" uuid="daf11d0a-f62d-4f64-857f-c21267e83180">
+    <data-source source="LOCAL" name="7.0-网关-银联-T" uuid="daf11d0a-f62d-4f64-857f-c21267e83180">
       <driver-ref>mysql.8</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
@@ -129,12 +129,12 @@
       <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
       <jdbc-url>jdbc:mysql://10.0.200.39:15547</jdbc-url>
     </data-source>
-    <data-source source="LOCAL" name="8.0-网关-内乡" uuid="f618d4ea-69b5-40b7-849b-04467643b20c">
+    <data-source source="LOCAL" name="基础数据库-台州" uuid="f618d4ea-69b5-40b7-849b-04467643b20c">
       <driver-ref>mysql.8</driver-ref>
       <synchronize>true</synchronize>
       <remarks>10.0.16.43:3306</remarks>
       <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
-      <jdbc-url>jdbc:mysql://10.0.200.12:14899</jdbc-url>
+      <jdbc-url>jdbc:mysql://10.208.2.14:3306/basic_tz</jdbc-url>
     </data-source>
     <data-source source="LOCAL" name="8.0-网关-吉林" uuid="2ee39e1a-cbca-4d7e-9d98-c767c4b39bef">
       <driver-ref>mysql.8</driver-ref>
