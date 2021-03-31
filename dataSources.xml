@@ -178,5 +178,11 @@
       <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
       <jdbc-url>jdbc:mysql://10.0.200.12:6523/gateway_test</jdbc-url>
     </data-source>
+    <data-source source="LOCAL" name="8.0-网关-内乡" uuid="967751ed-d30b-45c2-8441-bcb9ebb735fe">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://10.0.200.12:14899/api</jdbc-url>
+    </data-source>
   </component>
 </application>
