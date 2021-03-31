@@ -171,5 +171,12 @@
       <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
       <jdbc-url>jdbc:mysql://10.0.200.39:4962/gateway_upgrade</jdbc-url>
     </data-source>
+    <data-source source="LOCAL" name="8.0-网关-测试-腾讯云" uuid="00c10a87-9d4a-4ad7-96da-e1bb804f96e8">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <remarks>mysql-57.db.svc.cluster.local:3306</remarks>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://10.0.200.12:6523/gateway_test</jdbc-url>
+    </data-source>
   </component>
 </application>
