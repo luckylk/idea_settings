@@ -14,6 +14,10 @@
           <option name="url" value="http://git.huijiaoyun.com:10000" />
           <option name="userName" value="lukang@whty.com.cn" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://192.168.31.251:10080" />
+          <option name="userName" value="lukget" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/work/space/git" />
