@@ -190,5 +190,11 @@
       <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
       <jdbc-url>jdbc:mysql://10.0.200.39:5009/dspdb</jdbc-url>
     </data-source>
+    <data-source source="LOCAL" name="8.0-网关-郑州" uuid="1ee20db1-b21c-4fb7-be7c-381c2dae7ddc">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://10.0.200.12:32583/api</jdbc-url>
+    </data-source>
   </component>
 </application>
