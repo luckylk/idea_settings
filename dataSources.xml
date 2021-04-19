@@ -1,161 +1,11 @@
 <application>
   <component name="dataSourceStorage" format="xml" multifile-model="true">
-    <data-source source="LOCAL" name="8.0-网关-慧教云-D" uuid="bcc22850-9867-4d56-a30c-39c656089c08">
-      <driver-ref>mysql.8</driver-ref>
-      <synchronize>true</synchronize>
-      <remarks>10.0.200.12 29902</remarks>
-      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
-      <jdbc-url>jdbc:mysql://10.0.200.12:29902</jdbc-url>
-    </data-source>
-    <data-source source="LOCAL" name="8.0-网关-慧教云-T" uuid="b7094fe6-0284-4b40-8946-b6f17694b3db">
-      <driver-ref>mysql.8</driver-ref>
-      <synchronize>true</synchronize>
-      <remarks>192.168.6.119 3306</remarks>
-      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
-      <jdbc-url>jdbc:mysql://10.0.200.39:27831/</jdbc-url>
-    </data-source>
-    <data-source source="LOCAL" name="8.0-中间件统一后台" uuid="9cb98334-e671-4d78-ba9e-7da8452b356d">
-      <driver-ref>mysql.8</driver-ref>
-      <synchronize>true</synchronize>
-      <remarks>154.8.210.161 3306</remarks>
-      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
-      <jdbc-url>jdbc:mysql://154.8.210.161:3306</jdbc-url>
-    </data-source>
-    <data-source source="LOCAL" name="8.0-网关-驻马店" uuid="baeb89fc-b443-4f9b-a375-6bbbd1a3dec8">
-      <driver-ref>mysql.8</driver-ref>
-      <synchronize>true</synchronize>
-      <remarks>192.168.30.133 3306</remarks>
-      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
-      <jdbc-url>jdbc:mysql://10.0.200.15:23168</jdbc-url>
-    </data-source>
-    <data-source source="LOCAL" name="8.0-网关-广东政务云" uuid="949843f2-aea6-4053-b7eb-4d5ab285ee95">
-      <driver-ref>mysql.8</driver-ref>
-      <synchronize>true</synchronize>
-      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
-      <jdbc-url>jdbc:mysql://10.0.200.12:9769</jdbc-url>
-    </data-source>
-    <data-source source="LOCAL" name="8.0-网关-浙江政务云-nacos" uuid="0ea8efd3-9eba-46bd-9754-7c9104a5bdb7">
-      <driver-ref>mysql.8</driver-ref>
-      <synchronize>true</synchronize>
-      <remarks>10.129.63.242 3306</remarks>
-      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
-      <jdbc-url>jdbc:mysql://10.0.200.39:22424</jdbc-url>
-    </data-source>
-    <data-source source="LOCAL" name="7.0-网关-基库" uuid="ccb932e9-9f9b-4306-851d-32b0e6a6f411">
-      <driver-ref>mysql.8</driver-ref>
-      <synchronize>true</synchronize>
-      <remarks>192.168.30.133 3306</remarks>
-      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
-      <jdbc-url>jdbc:mysql://10.0.200.12:31796</jdbc-url>
-    </data-source>
-    <data-source source="LOCAL" name="8.0-网关-海南" uuid="af5439bb-8e19-4a0b-b875-eb944f662293">
-      <driver-ref>mysql.8</driver-ref>
-      <synchronize>true</synchronize>
-      <remarks>192.168.30.133 3306</remarks>
-      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
-      <jdbc-url>jdbc:mysql://10.0.200.15:4069</jdbc-url>
-    </data-source>
-    <data-source source="LOCAL" name="8.0-网关-江干" uuid="bb82b6c0-4124-4dac-8389-fbe134369067">
-      <driver-ref>mysql.8</driver-ref>
-      <synchronize>true</synchronize>
-      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
-      <jdbc-url>jdbc:mysql://10.0.200.15:12503</jdbc-url>
-    </data-source>
-    <data-source source="LOCAL" name="7.0-网关-银联-T" uuid="daf11d0a-f62d-4f64-857f-c21267e83180">
-      <driver-ref>mysql.8</driver-ref>
-      <synchronize>true</synchronize>
-      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
-      <jdbc-url>jdbc:mysql://10.0.200.12:29902</jdbc-url>
-    </data-source>
-    <data-source source="LOCAL" name="8.0-网关-浙江政务云-api" uuid="488a050f-4525-4f77-ae76-8f496f462d73">
-      <driver-ref>mysql.8</driver-ref>
-      <synchronize>true</synchronize>
-      <remarks>10.129.63.242 3306</remarks>
-      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
-      <jdbc-url>jdbc:mysql://10.0.200.39:22424</jdbc-url>
-    </data-source>
     <data-source source="LOCAL" name="我的腾讯云" uuid="9adb01e6-bc83-4d5a-850f-587e0df1d36e">
       <driver-ref>mysql.8</driver-ref>
       <synchronize>true</synchronize>
       <remarks>152.136.153.246 3306</remarks>
       <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
       <jdbc-url>jdbc:mysql://152.136.153.246:3306</jdbc-url>
-    </data-source>
-    <data-source source="LOCAL" name="8.0-网关-基库" uuid="cf6cfb63-f1dd-44d2-9012-50e4c2ffe9bd">
-      <driver-ref>mysql.8</driver-ref>
-      <synchronize>true</synchronize>
-      <remarks>192.168.30.133 3306</remarks>
-      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
-      <jdbc-url>jdbc:mysql://10.0.200.12:31796</jdbc-url>
-    </data-source>
-    <data-source source="LOCAL" name="8.0-网关-广东政务云-nacos" uuid="e3007574-518a-4b08-bbb8-31161c11461f">
-      <driver-ref>mysql.8</driver-ref>
-      <synchronize>true</synchronize>
-      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
-      <jdbc-url>jdbc:mysql://10.0.200.12:9769</jdbc-url>
-    </data-source>
-    <data-source source="LOCAL" name="8.0-网关-江门" uuid="b3d2d0d3-ea46-4ce2-bb4c-28fdbce80845">
-      <driver-ref>mysql.8</driver-ref>
-      <synchronize>true</synchronize>
-      <remarks>10.0.200.39  10413</remarks>
-      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
-      <jdbc-url>jdbc:mysql://10.0.200.39:10413</jdbc-url>
-    </data-source>
-    <data-source source="LOCAL" name="8.0-网关-寿光" uuid="2ef16fd6-2b18-46e5-a2e5-a329884a1870">
-      <driver-ref>mysql.8</driver-ref>
-      <synchronize>true</synchronize>
-      <remarks>192.168.0.154 3306</remarks>
-      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
-      <jdbc-url>jdbc:mysql://10.0.200.12:8033</jdbc-url>
-    </data-source>
-    <data-source source="LOCAL" name="8.0-网关-潮州枫溪" uuid="85789366-42e3-42dd-84ad-9623fd29ea78">
-      <driver-ref>mysql.8</driver-ref>
-      <synchronize>true</synchronize>
-      <remarks>10.128.131.7 3306</remarks>
-      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
-      <jdbc-url>jdbc:mysql://10.0.200.39:6892</jdbc-url>
-    </data-source>
-    <data-source source="LOCAL" name="8.0-网关-黑河逊克" uuid="9fc9b9c8-ac2d-4895-9429-d77348f9ca18">
-      <driver-ref>mysql.8</driver-ref>
-      <synchronize>true</synchronize>
-      <remarks>10.33.200.44 3306</remarks>
-      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
-      <jdbc-url>jdbc:mysql://10.0.200.12:8913</jdbc-url>
-    </data-source>
-    <data-source source="LOCAL" name="8.0-网关-台州" uuid="b4229b89-d2d7-4e02-8708-9f3679e8440c">
-      <driver-ref>mysql.8</driver-ref>
-      <synchronize>true</synchronize>
-      <remarks>10.208.252.36:3306</remarks>
-      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
-      <jdbc-url>jdbc:mysql://10.0.200.39:15547</jdbc-url>
-    </data-source>
-    <data-source source="LOCAL" name="基础数据库-台州" uuid="f618d4ea-69b5-40b7-849b-04467643b20c">
-      <driver-ref>mysql.8</driver-ref>
-      <synchronize>true</synchronize>
-      <remarks>10.0.16.43:3306</remarks>
-      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
-      <jdbc-url>jdbc:mysql://10.208.2.14:3306/basic_tz</jdbc-url>
-    </data-source>
-    <data-source source="LOCAL" name="8.0-网关-吉林" uuid="2ee39e1a-cbca-4d7e-9d98-c767c4b39bef">
-      <driver-ref>mysql.8</driver-ref>
-      <synchronize>true</synchronize>
-      <remarks>10.0.81.213:3306</remarks>
-      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
-      <jdbc-url>jdbc:mysql://10.0.200.39:14119</jdbc-url>
-    </data-source>
-    <data-source source="LOCAL" name="7.0-网关-宁夏" uuid="c2decb05-31ad-42bd-9f5d-0d86c793b09e">
-      <driver-ref>mysql.8</driver-ref>
-      <synchronize>true</synchronize>
-      <remarks>10.0.16.43:3306</remarks>
-      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
-      <jdbc-url>jdbc:mysql://10.0.200.15:26985</jdbc-url>
-    </data-source>
-    <data-source source="LOCAL" name="8.0-网关-抚州" uuid="5d7291f6-5463-4b8a-a999-2a9481e4dede">
-      <driver-ref>mysql.8</driver-ref>
-      <synchronize>true</synchronize>
-      <remarks>192.168.17.107:3306</remarks>
-      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
-      <jdbc-url>jdbc:mysql://10.0.200.12:3222</jdbc-url>
     </data-source>
     <data-source source="LOCAL" name="本地docker" uuid="84627d4f-fc7a-40a7-8172-cc4de9a3f656">
       <driver-ref>mysql.8</driver-ref>
@@ -164,37 +14,12 @@
       <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
       <jdbc-url>jdbc:mysql://127.0.0.1:13306</jdbc-url>
     </data-source>
-    <data-source source="LOCAL" name="8.0-网关-天喻云-升级以后" uuid="3f6aae8d-f7fa-42df-8b08-9127e5f60ceb">
+    <data-source source="LOCAL" name="空越-192.168.2.224" uuid="a33e3920-391c-4dd5-a5b0-a02caf15b355">
       <driver-ref>mysql.8</driver-ref>
       <synchronize>true</synchronize>
-      <remarks>192.168.30.133 3306</remarks>
+      <remarks>192.168.2.224 examactivity</remarks>
       <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
-      <jdbc-url>jdbc:mysql://10.0.200.39:4962/gateway_upgrade</jdbc-url>
-    </data-source>
-    <data-source source="LOCAL" name="8.0-网关-测试-腾讯云" uuid="00c10a87-9d4a-4ad7-96da-e1bb804f96e8">
-      <driver-ref>mysql.8</driver-ref>
-      <synchronize>true</synchronize>
-      <remarks>mysql-57.db.svc.cluster.local:3306</remarks>
-      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
-      <jdbc-url>jdbc:mysql://10.0.200.12:6523/gateway_test</jdbc-url>
-    </data-source>
-    <data-source source="LOCAL" name="8.0-网关-内乡" uuid="967751ed-d30b-45c2-8441-bcb9ebb735fe">
-      <driver-ref>mysql.8</driver-ref>
-      <synchronize>true</synchronize>
-      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
-      <jdbc-url>jdbc:mysql://10.0.200.12:14899/api</jdbc-url>
-    </data-source>
-    <data-source source="LOCAL" name="8.0-网关-蕲春" uuid="37fee419-e44c-4b48-ac48-a6c6262cb865">
-      <driver-ref>mysql.8</driver-ref>
-      <synchronize>true</synchronize>
-      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
-      <jdbc-url>jdbc:mysql://10.0.200.39:5009/dspdb</jdbc-url>
-    </data-source>
-    <data-source source="LOCAL" name="8.0-网关-郑州" uuid="1ee20db1-b21c-4fb7-be7c-381c2dae7ddc">
-      <driver-ref>mysql.8</driver-ref>
-      <synchronize>true</synchronize>
-      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
-      <jdbc-url>jdbc:mysql://10.0.200.12:32583/api</jdbc-url>
+      <jdbc-url>jdbc:mysql://192.168.2.224:3306</jdbc-url>
     </data-source>
   </component>
 </application>
