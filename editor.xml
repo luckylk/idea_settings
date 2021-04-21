@@ -22,4 +22,11 @@
     <option name="suggestAliasNames" value="false" />
     <option name="useAliasInJoinCompletion" value="false" />
   </component>
+  <component name="TodoConfiguration">
+    <pattern pattern="\b(todo|fixme)\b.*" />
+    <pattern pattern="\blukang\b.*" />
+    <filter name="lukang">
+      <pattern index="1" />
+    </filter>
+  </component>
 </application>

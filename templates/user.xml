@@ -1,6 +1,6 @@
 <templateSet group="user">
-  <template name="todo" value="/*&#10; * TODO&#10; * $date$&#10; * */" description="TODO method area" toReformat="false" toShortenFQNames="true">
-    <variable name="date" expression="" defaultValue="" alwaysStopAt="true" />
+  <template name="todo" value="/**&#10; * lukang&#10; * $date$&#10; * TODO  &#10; */" description="TODO method area" toReformat="false" toShortenFQNames="true">
+    <variable name="date" expression="date()" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
