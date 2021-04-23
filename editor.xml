@@ -24,7 +24,7 @@
   </component>
   <component name="TodoConfiguration">
     <pattern pattern="\b(todo|fixme)\b.*" />
-    <pattern pattern="\blukang\b.*" />
+    <pattern pattern="\bdo lukang\b.*" />
     <filter name="lukang">
       <pattern index="1" />
     </filter>
