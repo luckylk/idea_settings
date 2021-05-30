@@ -10,7 +10,7 @@
     <data-source source="LOCAL" name="本地docker" uuid="84627d4f-fc7a-40a7-8172-cc4de9a3f656">
       <driver-ref>mysql.8</driver-ref>
       <synchronize>true</synchronize>
-      <remarks>152.136.153.246</remarks>
+      <remarks>本地</remarks>
       <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
       <jdbc-url>jdbc:mysql://127.0.0.1:13306</jdbc-url>
     </data-source>
