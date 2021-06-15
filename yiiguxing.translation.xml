@@ -1,0 +1,18 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="微博" />
+    </histories>
+  </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1623742253102" />
+  </component>
+  <component name="Settings">
+    <option name="baiduTranslateSettings">
+      <app-key>
+        <option name="appId" value="20210615000863413" />
+      </app-key>
+    </option>
+    <option name="translator" value="BAIDU" />
+  </component>
+</application>
