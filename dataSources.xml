@@ -28,5 +28,12 @@
       <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
       <jdbc-url>jdbc:mysql://192.168.2.181:3306</jdbc-url>
     </data-source>
+    <data-source source="LOCAL" name="空越-正式" uuid="d4f3c681-31ff-4612-9589-2ed539f03448">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <remarks>172.16.1.136</remarks>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://172.16.1.136:3307/xcertificate</jdbc-url>
+    </data-source>
   </component>
 </application>
