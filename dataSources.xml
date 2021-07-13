@@ -33,7 +33,7 @@
       <synchronize>true</synchronize>
       <remarks>172.16.1.136</remarks>
       <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
-      <jdbc-url>jdbc:mysql://172.16.1.136:3307/xcertificate</jdbc-url>
+      <jdbc-url>jdbc:mysql://172.16.1.136:3307/konyue-certificate</jdbc-url>
     </data-source>
   </component>
 </application>
