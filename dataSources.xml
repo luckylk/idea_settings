@@ -35,5 +35,12 @@
       <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
       <jdbc-url>jdbc:mysql://172.16.1.136:3307/konyue-certificate</jdbc-url>
     </data-source>
+    <data-source source="LOCAL" name="空越-河北-172.16.1.204" uuid="d66007c8-bdf3-49df-98b9-b54ca7456b96">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <remarks>172.16.1.204</remarks>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://172.16.1.204:3306/</jdbc-url>
+    </data-source>
   </component>
 </application>
