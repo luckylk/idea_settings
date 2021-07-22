@@ -28,7 +28,7 @@
       <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
       <jdbc-url>jdbc:mysql://192.168.2.181:3306</jdbc-url>
     </data-source>
-    <data-source source="LOCAL" name="空越-正式" uuid="d4f3c681-31ff-4612-9589-2ed539f03448">
+    <data-source source="LOCAL" name="空越-正式-172.16.1.136" uuid="d4f3c681-31ff-4612-9589-2ed539f03448">
       <driver-ref>mysql.8</driver-ref>
       <synchronize>true</synchronize>
       <remarks>172.16.1.136</remarks>
@@ -41,6 +41,13 @@
       <remarks>172.16.1.204</remarks>
       <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
       <jdbc-url>jdbc:mysql://172.16.1.204:32067/</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="空越-正式-172.16.1.139" uuid="47938607-c760-4fc0-ab50-8306210cb25d">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <remarks>172.16.1.139</remarks>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://172.16.1.139:3307/examactivity</jdbc-url>
     </data-source>
   </component>
 </application>
