@@ -6,6 +6,10 @@
           <option name="url" value="http://192.168.2.181:7002" />
           <option name="userName" value="lukang" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://172.16.1.201:31609" />
+          <option name="userName" value="lukang" />
+        </UrlAndUserName>
       </list>
     </option>
   </component>
