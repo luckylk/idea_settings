@@ -54,7 +54,7 @@
       <synchronize>true</synchronize>
       <remarks>172.16.1.201</remarks>
       <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
-      <jdbc-url>jdbc:mysql://172.16.1.201:30929/</jdbc-url>
+      <jdbc-url>jdbc:mysql://172.16.1.201:32057/</jdbc-url>
     </data-source>
   </component>
 </application>
