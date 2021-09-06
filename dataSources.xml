@@ -21,12 +21,12 @@
       <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
       <jdbc-url>jdbc:mysql://192.168.2.224:3306/</jdbc-url>
     </data-source>
-    <data-source source="LOCAL" name="空越-192.168.2.181" uuid="9c409a6c-c189-4fc7-a39e-448026e5a5dc">
+    <data-source source="LOCAL" name="空越-192.168.2.101" uuid="9c409a6c-c189-4fc7-a39e-448026e5a5dc">
       <driver-ref>mysql.8</driver-ref>
       <synchronize>true</synchronize>
-      <remarks>192.168.2.181</remarks>
+      <remarks>192.168.2.101</remarks>
       <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
-      <jdbc-url>jdbc:mysql://192.168.2.181:3306</jdbc-url>
+      <jdbc-url>jdbc:mysql://192.168.2.101:30092</jdbc-url>
     </data-source>
     <data-source source="LOCAL" name="空越-正式-172.16.1.136" uuid="d4f3c681-31ff-4612-9589-2ed539f03448">
       <driver-ref>mysql.8</driver-ref>
