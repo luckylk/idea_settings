@@ -10,6 +10,8 @@
       <removed_mapping ext="apk" approved="true" type="APK" />
       <removed_mapping ext="conf" approved="true" type="Nginx Configuration" />
       <removed_mapping ext="json" approved="true" type="JSON" />
+      <removed_mapping ext="nginx" approved="true" type="Nginx Configuration" />
+      <removed_mapping ext="psd" approved="true" type="Image" />
       <removed_mapping ext="yaml" approved="true" type="YAML" />
       <removed_mapping pattern="Jenkinsfile" approved="true" type="Groovy" />
     </extensionMap>
