@@ -30,6 +30,8 @@
     <entry projectPath="$USER_HOME$/work/space/konyue/svn/ky-common" startUpFlag="FIRST" />
     <entry projectPath="$USER_HOME$/work/space/konyue/svn/suzaku_yichang" startUpFlag="FIRST" />
     <entry projectPath="$USER_HOME$/work/space/lukget/cc-gateway/cc-gateway" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/work/space/lukget/cc-gateway/cc-gateway/dc-cloud-gateway-server-admin" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/work/space/lukget/cc-gateway/cc-gateway/dc-cloud-gateway-server-gateway" startUpFlag="FIRST" />
     <entry projectPath="$USER_HOME$/work/space/my/eladmin/eladmin" startUpFlag="FIRST" />
     <entry projectPath="$USER_HOME$/work/space/my/ky-parent" startUpFlag="FIRST" />
     <entry projectPath="$USER_HOME$/work/space/my/lukget-gateway" startUpFlag="FIRST" />
