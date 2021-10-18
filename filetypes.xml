@@ -7,6 +7,7 @@
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
+      <mapping pattern=".env" type="PLAIN_TEXT" />
       <removed_mapping ext="apk" approved="true" type="APK" />
       <removed_mapping ext="conf" approved="true" type="Nginx Configuration" />
       <removed_mapping ext="json" approved="true" type="JSON" />
