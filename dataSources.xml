@@ -47,7 +47,7 @@
       <synchronize>true</synchronize>
       <remarks>172.16.1.139</remarks>
       <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
-      <jdbc-url>jdbc:mysql://172.16.1.139:3307/examactivity</jdbc-url>
+      <jdbc-url>jdbc:mysql://172.16.1.139:3306/examactivity</jdbc-url>
     </data-source>
     <data-source source="LOCAL" name="空越-河北-172.16.1.201-nacos" uuid="4bd55817-0ac6-40d0-b58d-52fcc7c372aa">
       <driver-ref>mysql.8</driver-ref>
