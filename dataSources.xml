@@ -26,7 +26,7 @@
       <synchronize>true</synchronize>
       <remarks>192.168.2.101</remarks>
       <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
-      <jdbc-url>jdbc:mysql://192.168.2.101:30092</jdbc-url>
+      <jdbc-url>jdbc:mysql://192.168.2.101:32446</jdbc-url>
     </data-source>
     <data-source source="LOCAL" name="空越-正式-172.16.1.136" uuid="d4f3c681-31ff-4612-9589-2ed539f03448">
       <driver-ref>mysql.8</driver-ref>
