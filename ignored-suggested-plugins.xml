@@ -3,6 +3,7 @@
     <option name="pluginIds">
       <list>
         <option value="idea.plugin.protoeditor" />
+        <option value="com.intellij.guice" />
       </list>
     </option>
   </component>
