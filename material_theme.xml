@@ -1,5 +1,9 @@
 <application>
   <component name="MaterialThemeConfig">
+    <option name="compactMenus" value="true" />
+    <option name="isCompactMenus" value="true" />
+    <option name="pristineConfig" value="false" />
+    <option name="settingsSelectedTab" value="1" />
     <option name="accentColor" value="416a9b" />
     <option name="selectedTheme" value="NATIVE" />
     <option name="userId" value="7bb9af48:1798fc492a8:-8000" />
