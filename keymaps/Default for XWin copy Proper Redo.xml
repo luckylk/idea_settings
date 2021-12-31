@@ -9,11 +9,11 @@
     <keyboard-shortcut first-keystroke="alt slash" />
   </action>
   <action id="EditorDeleteLine" />
+  <action id="EmacsStyleIndent">
+    <keyboard-shortcut first-keystroke="ctrl alt i" />
+  </action>
   <action id="HippieCompletion" />
   <action id="OnlineSearch.EditorActions.ShowSearchEnginesAction">
     <keyboard-shortcut first-keystroke="ctrl alt 1" />
-  </action>
-  <action id="OptimizeImports">
-    <keyboard-shortcut first-keystroke="ctrl alt i" />
   </action>
 </keymap>
