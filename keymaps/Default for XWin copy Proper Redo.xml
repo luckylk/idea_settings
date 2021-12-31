@@ -12,8 +12,15 @@
   <action id="EmacsStyleIndent">
     <keyboard-shortcut first-keystroke="ctrl alt i" />
   </action>
+  <action id="GotoDeclaration">
+    <keyboard-shortcut first-keystroke="ctrl b" />
+  </action>
   <action id="HippieCompletion" />
   <action id="OnlineSearch.EditorActions.ShowSearchEnginesAction">
     <keyboard-shortcut first-keystroke="ctrl alt 1" />
+  </action>
+  <action id="OptimizeImports">
+    <keyboard-shortcut first-keystroke="ctrl alt o" />
+    <mouse-shortcut keystroke="control button1" />
   </action>
 </keymap>
