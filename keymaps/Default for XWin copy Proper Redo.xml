@@ -5,6 +5,6 @@
   <action id="HippieCompletion" />
   <action id="OptimizeImports">
     <keyboard-shortcut first-keystroke="ctrl alt o" />
-    <keyboard-shortcut first-keystroke="shift o" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt o" />
   </action>
 </keymap>
