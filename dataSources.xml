@@ -40,7 +40,7 @@
       <synchronize>true</synchronize>
       <remarks>192.168.2.101</remarks>
       <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
-      <jdbc-url>jdbc:mysql://192.168.2.101:30092</jdbc-url>
+      <jdbc-url>jdbc:mysql://192.168.2.111:30092</jdbc-url>
     </data-source>
   </component>
 </application>
