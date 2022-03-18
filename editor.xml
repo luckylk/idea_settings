@@ -3,7 +3,8 @@
     <option name="SHOW_PARAMETER_NAME_HINTS_ON_COMPLETION" value="true" />
     <option name="AUTO_POPUP_JAVADOC_INFO" value="true" />
     <option name="SHOW_FULL_SIGNATURES_IN_PARAMETER_INFO" value="true" />
-    <option name="REFORMAT_ON_PASTE" value="2" />
+    <option name="SMART_INDENT_ON_ENTER" value="false" />
+    <option name="REFORMAT_ON_PASTE" value="1" />
     <option name="ADD_IMPORTS_ON_PASTE" value="2" />
     <option name="ADD_UNAMBIGIOUS_IMPORTS_ON_THE_FLY" value="true" />
     <option name="JSP_ADD_UNAMBIGIOUS_IMPORTS_ON_THE_FLY" value="true" />
