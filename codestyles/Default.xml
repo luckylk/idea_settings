@@ -6,8 +6,6 @@
   </editorconfig>
   <codeStyleSettings language="JAVA">
     <indentOptions>
-      <option name="USE_TAB_CHARACTER" value="true" />
-      <option name="SMART_TABS" value="true" />
       <option name="KEEP_INDENTS_ON_EMPTY_LINES" value="true" />
     </indentOptions>
   </codeStyleSettings>
