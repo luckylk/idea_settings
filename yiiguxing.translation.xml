@@ -1,13 +1,21 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="排除" />
+      <item value="choose User DTO" />
       <item value="传递" />
       <item value="Standard Response" />
       <item value="微博" />
     </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="1" />
+        <entry key="ENGLISH" value="1" />
+      </map>
+    </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1623742253102" />
+    <option name="lastTrimTime" value="1648887897973" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
@@ -15,6 +23,5 @@
         <option name="appId" value="20210615000863413" />
       </app-key>
     </option>
-    <option name="translator" value="BAIDU" />
   </component>
 </application>
