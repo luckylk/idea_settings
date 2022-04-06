@@ -1,8 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="user Service" />
       <item value="排除" />
+      <item value="user Service" />
       <item value="choose User DTO" />
       <item value="传递" />
       <item value="Standard Response" />
@@ -10,7 +10,7 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1" />
+        <entry key="CHINESE" value="2" />
         <entry key="ENGLISH" value="2" />
       </map>
     </option>
