@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="user Service" />
       <item value="排除" />
       <item value="choose User DTO" />
       <item value="传递" />
@@ -10,7 +11,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="1" />
+        <entry key="ENGLISH" value="2" />
       </map>
     </option>
   </component>
@@ -22,6 +23,11 @@
       <app-key>
         <option name="appId" value="20210615000863413" />
       </app-key>
+    </option>
+    <option name="youdaoTranslateSettings">
+      <youdao-translate>
+        <option name="appId" value="045c66c3fd5cf8f3" />
+      </youdao-translate>
     </option>
   </component>
 </application>
