@@ -42,5 +42,12 @@
       <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
       <jdbc-url>jdbc:mysql://192.168.2.111:30092</jdbc-url>
     </data-source>
+    <data-source source="LOCAL" name="空越-广东-k8s-cloud" uuid="60aec8c5-bc79-45d6-b572-a182ba6d0947">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <remarks>172.16.1.139</remarks>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://172.16.1.110:30832/</jdbc-url>
+    </data-source>
   </component>
 </application>
