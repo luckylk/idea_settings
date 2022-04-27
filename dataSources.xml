@@ -49,5 +49,12 @@
       <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
       <jdbc-url>jdbc:mysql://172.16.1.110:30832/</jdbc-url>
     </data-source>
+    <data-source source="LOCAL" name="空越-报名-江汉区" uuid="a2ba6f38-f006-4f78-8aca-46210fd98b3d">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <remarks>nj-cdb-39bbp7hr.sql.tencentcdb.com</remarks>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://nj-cdb-39bbp7hr.sql.tencentcdb.com:3306/</jdbc-url>
+    </data-source>
   </component>
 </application>
