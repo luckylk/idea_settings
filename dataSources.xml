@@ -54,7 +54,7 @@
       <synchronize>true</synchronize>
       <remarks>nj-cdb-39bbp7hr.sql.tencentcdb.com</remarks>
       <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
-      <jdbc-url>jdbc:mysql://nj-cdb-39bbp7hr.sql.tencentcdb.com:3306/</jdbc-url>
+      <jdbc-url>jdbc:mysql://nj-cdb-39bbp7hr.sql.tencentcdb.com:63860/</jdbc-url>
     </data-source>
   </component>
 </application>
